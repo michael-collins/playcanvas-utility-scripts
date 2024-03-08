@@ -2,5 +2,6 @@
 
 **Scripts:**
 
-- [playVideoTextureOnCollision.js](https://raw.githubusercontent.com/michael-collins/playcanvas-utility-scripts/main/playVideoTextureOnCollision.js)
-- [firstPersonMovement.js](https://raw.githubusercontent.com/michael-collins/playcanvas-utility-scripts/main/firstPersonMovement.js)
+- [playVideoTextureOnCollision.js](https://github.com/michael-collins/playcanvas-utility-scripts/blob/main/playVideoTextureOnCollision.js)
+- [firstPersonMovement.js](https://github.com/michael-collins/playcanvas-utility-scripts/blob/main/firstPersonMovement.js)
+- [collisionSoundTrigger.js](https://github.com/michael-collins/playcanvas-utility-scripts/blob/main/firstPersonMovement.js)
