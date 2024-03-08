@@ -1,8 +1,8 @@
 
-// This script allows you to play audio when inside a collision area of the associated object
-// You must give the object a collision component and a sound component
-// The sound component must have 1 audio track. The audio track in the top slot position will be used for this interaction.
-// Sound behaviors adjust how sound is played, resumed, or ignored based on interaction with the collision
+// This script allows you to play audio when inside a collision area of the associated object (IE - when the player collides with the collision area.)
+// For a given object, add a Collision Component and a Sound Component
+// The sound component must have atleast 1 audio track slot. The audio track in the top slot position will be used by the script.
+// Four sound behaviors adjust how sound is played, resumed, or ignored based on entering and exiting the collision area.
 
 var CollisionSoundTrigger = pc.createScript('collisionSoundTrigger');
 
