@@ -1,3 +1,9 @@
+// Add to a player
+// Select the camera (typically you parent the view camera around the head area of a player
+// Setting power to around 1800 seems to work well
+// Look speed of 0.25 is usually fine
+
+
 var FirstPersonMovement = pc.createScript('firstPersonMovement');
 
 FirstPersonMovement.attributes.add('camera', {
