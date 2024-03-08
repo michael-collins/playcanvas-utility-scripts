@@ -1,4 +1,5 @@
-// Add to a player
+// To use this script, add it as a script component to a player object.
+// Set up a collision area in the shape of the player
 // Select the camera (typically you parent the view camera around the head area of a player
 // Setting power to around 1800 seems to work well
 // Look speed of 0.25 is usually fine
