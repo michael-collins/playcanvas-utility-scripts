@@ -6,7 +6,7 @@
 
 ![blender](https://github.com/michael-collins/playcanvas-utility-scripts/blob/fcc245d3907195712d99df3fd72fd975b3161839/rendering-a-cube-map.png)
 
-**Step 3:** Right click and "save as" this link: [photoshop cubemap generator template](https://github.com/michael-collins/playcanvas-utility-scripts/blob/91aa0ce848e20872c23a49c51a766aef6d13cf8a/cubemap/CubeMapGenerator_4096.psd?raw=true)
+**Step 3:** Right click and "save as" this link: [Photoshop cubemap generator template](https://github.com/michael-collins/playcanvas-utility-scripts/blob/91aa0ce848e20872c23a49c51a766aef6d13cf8a/cubemap/CubeMapGenerator_4096.psd?raw=true)
 
 **Step 4:** Open the baked cubemap in Photoshop and copy the image
 
