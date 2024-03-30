@@ -1,12 +1,12 @@
 # How to create a Skybox in Playcanvas
 
-**Step 1:** Download this [blender file](https://github.com/michael-collins/playcanvas-utility-scripts/blob/fcc245d3907195712d99df3fd72fd975b3161839/skybox-generator.blend?raw=true)
+**Step 1:** Download this [blender file](https://github.com/michael-collins/playcanvas-utility-scripts/blob/91aa0ce848e20872c23a49c51a766aef6d13cf8a/cubemap/skybox-generator.blend?raw=true)
 
 **Step 2:** Bake a Cubemap
 
 ![blender](https://github.com/michael-collins/playcanvas-utility-scripts/blob/fcc245d3907195712d99df3fd72fd975b3161839/rendering-a-cube-map.png)
 
-**Step 3:** Download the [photoshop cubemap generator template](https://github.com/michael-collins/playcanvas-utility-scripts/blob/f261f2097d843608062bcfed03092607d7cd3d6e/CubeMapGenerator_4096.psd?raw=true)
+**Step 3:** Download the [photoshop cubemap generator template](https://github.com/michael-collins/playcanvas-utility-scripts/blob/91aa0ce848e20872c23a49c51a766aef6d13cf8a/cubemap/CubeMapGenerator_4096.psd?raw=true)
 
 **Step 4:** Open the baked cubemap in Photoshop and copy the image
 
