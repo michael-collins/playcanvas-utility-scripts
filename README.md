@@ -14,3 +14,6 @@
     - Implements anti-aliasing for high quality edge rendering
   - [posteffect-bokeh.js](https://github.com/michael-collins/playcanvas-utility-scripts/blob/main/posteffect-bokeh.js)
     - Adds a depth-of-field blur effect
+
+**Skybox cubemap tutorial**
+- [skybox.md](/skybox.md)
