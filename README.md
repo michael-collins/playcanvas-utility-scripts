@@ -1,5 +1,7 @@
 # playcanvas-utility-scripts
 
+Made to aid in development of https://www.maggierosecondit.com/glitching-reproductive-injustice
+
 **Scripts:**
 
 - [playVideoTextureOnCollision.js](https://github.com/michael-collins/playcanvas-utility-scripts/blob/main/playVideoTextureOnCollision.js)
